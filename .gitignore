@@ -1,0 +1,5 @@
+# Archivos de sistema operativo y editores de código
+.DS_Store
+.vscode/
+*.log
+*.bak
